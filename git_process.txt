@@ -1,0 +1,12 @@
+open terminal by holding themwindows key while double tapping space bar
+search for termnal by typeing in terminal
+press enter when you find he icon with a greaterthatn sign and an under score
+copy this command into terminal to copy your repository onto the computer    git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+in terminal type in cd then the name of your repository
+type gedit the name you want you file to be and an & into terminal
+edit the document to your wishes
+save the document
+in terminal type git add then the name of your file
+in terminal type git comit then a quote with what you want to remember this edit for
+in terminal type in git push
+fill in your username and password do not be allarmed when your password does not show up
