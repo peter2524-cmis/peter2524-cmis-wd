@@ -4,12 +4,12 @@ color: red;
 h1 {
 	color:#66FF66;
 	background-color: #FFAD33;
-	border:solid 10px #E0EBEB;
+	border:ridge 10px #993333;
 }
 h2{
 	color:red;
 	background-color: blue;
-	border:solid 10px #E0EBEB;
+	border:double  50px #E0EBEB;
 }
 p1 {
 	color: white;
