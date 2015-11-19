@@ -1,8 +1,10 @@
 clone = git clone --config="http.proxy=http://peter2524:Cheapskate#1@192.168.2.1:8080" https://github.com/peter2524-cmis/peter2524-cmis-wd.git
-new file = git add filename
+new file = gedit add filename
 get into teachers home folder= sftp peter2524@cmis-hsteacher
 show location= pwd
 Show files on this and other computer=!ls
 put a file on onother computer=put filename
 to remove from public flder= rm filename
+go to parent folder = cd ..
+Start site in production server = cmis-hsteacher/~peter2524
 
