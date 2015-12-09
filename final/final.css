@@ -1,0 +1,13 @@
+{ *
+border-style:solid;
+border-color:red;
+border-width:5;
+}
+{ h1
+}
+{ img
+float:right;
+}
+{ nav
+float:left;
+}
