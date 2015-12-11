@@ -1,13 +1,17 @@
-{ *
-border-style:solid;
-border-color:red;
-border-width:5;
+body {
+background-image: url ("images/eye.jpg");
 }
-{ h1
+h1 {
+font-family: sans-serif;
+text-align: center;
 }
-{ img
+img {
 float:right;
 }
-{ nav
+nav {
 float:left;
+color:red;
+}
+p {
+clear: right;
 }
