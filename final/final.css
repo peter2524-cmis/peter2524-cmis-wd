@@ -1,17 +1,24 @@
 body {
-background-image: url ("images/eye.jpg");
+background-color: #930B00
 }
 h1 {
 font-family: sans-serif;
 text-align: center;
+color: #B8F058;
+border: 20px #42A1AF;
+border-style: inset;
 }
 img {
 float:right;
 }
 nav {
 float:left;
-color:red;
+color:#A6EC2E
 }
 p {
 clear: right;
+}
+table, th, td {
+border: 5px solid #B8F058;
+float: center; 
 }
